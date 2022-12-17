@@ -21,3 +21,11 @@ It's simple to build a GUI application using Tkinter. All you have to do is carr
 =>  Add a widget from the list above or more to the GUI program.
 
 =>  To respond to each event that the user has caused, enter the main event loop.
+
+
+Screenshots:
+![image](https://user-images.githubusercontent.com/91412980/208254431-776bd485-199f-4953-9381-258ccc060b98.png)
+![image](https://user-images.githubusercontent.com/91412980/208254450-74328981-c7a9-4dc8-9adf-4b6cece4fa5c.png)
+![image](https://user-images.githubusercontent.com/91412980/208254478-cc0051b7-ae94-4e55-a814-9a52958645fb.png)
+
+
